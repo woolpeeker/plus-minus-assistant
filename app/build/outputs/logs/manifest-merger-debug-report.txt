@@ -1,0 +1,119 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\3b9ddc0ac97889b9f19054d7bc186e2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.rmtheis:tess-two:7.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\tess-two-7.0.0.aar\de598ac80ecdecf7d1c46132dbee1641\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ba9c34f1e771cbbeea40f8ea0d4b5953\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\732b2112c96c6ba0e18028e580080e2b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\79edd44d32a2b5a4ece63953eab18d9c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\9a45e3f907a88faf46f62e183922f8ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\33a1d2e567ee330823f296930c8d90a3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\ac7c4d9192fb9275d9c4638d4fece271\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\283b89f42d12ad1f66ee50d4348556dc\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3e0b7e651dadc47ee0d5064bde7e0040\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:1-24:12
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ba9c34f1e771cbbeea40f8ea0d4b5953\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ba9c34f1e771cbbeea40f8ea0d4b5953\AndroidManifest.xml:9:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3e0b7e651dadc47ee0d5064bde7e0040\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3e0b7e651dadc47ee0d5064bde7e0040\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:11:9-40
+activity#gameassist.plusminus.MainActivity
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:16:27-74
+service#gameassist.plusminus.ScreenShot
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:19:9-71
+	android:exported
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:19:45-69
+	android:name
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:19:18-44
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:21:5-80
+	android:name
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml:22:22-77
+uses-sdk
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\3b9ddc0ac97889b9f19054d7bc186e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.0.aar\3b9ddc0ac97889b9f19054d7bc186e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.rmtheis:tess-two:7.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\tess-two-7.0.0.aar\de598ac80ecdecf7d1c46132dbee1641\AndroidManifest.xml:22:5-24:41
+MERGED from [com.rmtheis:tess-two:7.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\tess-two-7.0.0.aar\de598ac80ecdecf7d1c46132dbee1641\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ba9c34f1e771cbbeea40f8ea0d4b5953\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\ba9c34f1e771cbbeea40f8ea0d4b5953\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\732b2112c96c6ba0e18028e580080e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.0.aar\732b2112c96c6ba0e18028e580080e2b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\79edd44d32a2b5a4ece63953eab18d9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.0.aar\79edd44d32a2b5a4ece63953eab18d9c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\9a45e3f907a88faf46f62e183922f8ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.0.aar\9a45e3f907a88faf46f62e183922f8ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\33a1d2e567ee330823f296930c8d90a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.0.aar\33a1d2e567ee330823f296930c8d90a3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\ac7c4d9192fb9275d9c4638d4fece271\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.0.aar\ac7c4d9192fb9275d9c4638d4fece271\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\283b89f42d12ad1f66ee50d4348556dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.0.aar\283b89f42d12ad1f66ee50d4348556dc\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3e0b7e651dadc47ee0d5064bde7e0040\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3e0b7e651dadc47ee0d5064bde7e0040\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+		ADDED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+		INJECTED from D:\my_project\PlusMinus\app\src\main\AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3e0b7e651dadc47ee0d5064bde7e0040\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3e0b7e651dadc47ee0d5064bde7e0040\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\luojiapeng\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\3e0b7e651dadc47ee0d5064bde7e0040\AndroidManifest.xml:26:13-58
